@@ -8,7 +8,7 @@ A running list of technical books written by black authors. Send a pull request 
 
 ## Software Engineering
 - [JavaScript Allongé](https://leanpub.com/javascriptallongesix) by Reginald Braithwaite
-- [Become a Python Develoer: Wrestle and Defeat It](https://www.amazon.com/dp/B07KX8RT4V) by Doug Purcell
+- [Become a Python Developer: Wrestle and Defeat It](https://www.amazon.com/dp/B07KX8RT4V) by Doug Purcell
 - [Game Programming for Artists](https://www.amazon.com/dp/1138626465) by Jarrod Huntley and Hanna Brady
 - [Learning Go Programming](https://vladimirvivien.github.io/learning-go) by Vladimir Vivien
 - [SwiftUI Projects: Build six real-world, cross-platform mobile applications using Swift, Xcode 12, and SwiftUI](https://www.amazon.com/dp/B08614PHJV) by Craig Clayton
@@ -19,7 +19,7 @@ A running list of technical books written by black authors. Send a pull request 
 - [Cross-Cultural Design](https://abookapart.com/products/cross-cultural-design) by Senongo Akpem
 
 ## Tools
-- [Kubernetes: Up and Running: Dive into the Future of Infrastructure](https://www.amazon.com/dp/B075G373MJ) by Kelsey Hightower, Brendan Burns, and Joe Beda
+- [Kubernetes: Up and Running: Dive into the Future of Infrastructure](https://www.amazon.com/dp/1492046531) by Kelsey Hightower, Brendan Burns, and Joe Beda
 - [Operations Anti-Patterns, DevOps Solutions](https://www.manning.com/books/operations-anti-patterns-devops-solutions) by Jeffrey D. Smith
 
 ## Information Security
